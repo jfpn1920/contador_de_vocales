@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un **contador de vocales** en consola
 
 El sistema recorre la palabra carácter por carácter mediante un **bucle `for`**, evaluando si cada letra corresponde a una vocal (`a`, `e`, `i`, `o`, `u`). Para ello, se emplean **condicionales** y **operadores lógicos**, permitiendo realizar la validación de manera clara y estructurada.
 
-El objetivo principal del proyecto es reforzar el uso de **estructuras repetitivas**, **condicionales** y **operadores lógicos**, además de mejorar la comprensión del recorrido de cadenas de texto y el manejo de contadores en Python.
+El objetivo principal del proyecto es reforzar el uso de **estructuras repetitivas**, **condicionales** y **operadores lógicos**, además de mejorar la comprensión del recorrido de cadenas de texto y el manejo de contadores en Python. Este ejercicio permite al estudiante desarrollar una lógica más sólida para el análisis de caracteres individuales dentro de un texto.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
